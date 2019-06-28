@@ -1,0 +1,10 @@
+git config
+git init
+git clone
+git add
+git commit
+git merge
+git status
+git rm
+git log
+git show
